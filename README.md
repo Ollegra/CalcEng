@@ -1,5 +1,5 @@
 # Инженерный калькулятор
-![image]()
+![image](https://github.com/Ollegra/CalcEng/blob/main/screenshot.png)
 
 ## возможности
 
